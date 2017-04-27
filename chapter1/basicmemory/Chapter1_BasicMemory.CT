@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="24">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"x-coordinates circles"</Description>
+      <LastState Value="10" Activated="1" RealAddress="00D77928"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Chapter1_BasicMemory.exe+F7928</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"y-coordinates circles"</Description>
+      <LastState Value="10" Activated="1" RealAddress="00D7792C"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Chapter1_BasicMemory.exe+F792C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"y-coordinates rectangle"</Description>
+      <LastState Value="13" RealAddress="00D77924"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Chapter1_BasicMemory.exe+F7924</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"x-coordinates rectangle"</Description>
+      <LastState Value="12" RealAddress="00D77920"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>00D77920</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
